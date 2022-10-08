@@ -70,8 +70,16 @@ p{
 .content h3 {
     font-size: 24px;
     font-family: var(--heading-font-family);
+    line-height: 1.5;
+    
 }
 
+
+
+.image-container-1 {
+    flex: 0 0 auto;
+    width: auto;
+}
 
 .btn-branding {
     background-color: var(--branding-color);
