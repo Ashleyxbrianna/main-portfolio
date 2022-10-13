@@ -261,6 +261,11 @@ transform: translateX(130px);
             color: var(--branding-color);
         }
 
+        .source-link {
+            color: var(--third-color);
+            text-decoration: none;
+        }
+
     @media (max-width: 960px) {
         h1 {
             font-size: 44px;
