@@ -255,6 +255,10 @@ transform: translateX(130px);
             position: relative;
             left: 200px;
             top: 30px;
+            border-radius: 10%;
+            
+            
+            
         }
 
         .meet-me-bio {
@@ -265,6 +269,19 @@ transform: translateX(130px);
             color: var(--third-color);
             text-decoration: none;
         }
+
+        .coding-icons {
+            color: var(--third-color);
+            font-size: 60px;
+            padding: 5px;
+            
+           
+        }
+
+
+
+
+
 
     @media (max-width: 960px) {
         h1 {
