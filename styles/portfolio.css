@@ -257,6 +257,10 @@ transform: translateX(130px);
             top: 30px;
         }
 
+        .meet-me-bio {
+            color: var(--branding-color);
+        }
+
     @media (max-width: 960px) {
         h1 {
             font-size: 44px;
